@@ -15,6 +15,6 @@ More minigames
 & more waiting for you!
 
 # Video link:
-https://youtu.be/tTNJN_fxGjI (sub pls)
+https://youtu.be/lbTGujGmvXo (sub pls)
 
 # Go to releases to download!
