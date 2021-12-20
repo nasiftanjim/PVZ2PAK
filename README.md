@@ -19,3 +19,8 @@ More minigames
 https://youtu.be/lbTGujGmvXo (sub pls)
 
 ## Go to releases to download!
+
+## Credits
+[Jiangnangame](https://github.com/jiangnangame/PVZ2PAK) (Base)
+
+[E-Pea](https://www.youtube.com/channel/UCORlBB70YiaUWkBY_XjBnKQ) (Seed packets, some textures)
