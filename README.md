@@ -1,6 +1,6 @@
 # PvZ 2 PAK
 This changes every assets, animations, etc to match PvZ 2. Bringing the experience of PvZ 2 on your PC!
-## Features:
+## Features
 
 BGM (Background Music)
 
@@ -14,13 +14,13 @@ More minigames
 
 & more waiting for you!
 
-### Video link:
+### Video link
 
 [PvZ 2 PAK 1.8 (Overview+Gameplay+Download)](https://youtu.be/m42s43pK-wo) (sub pls)
 
-## Download!
+## Download
 
-Go to releases!
+Go to releases to download.
 
 ## Credits
 [Jiangnangame](https://github.com/jiangnangame/PVZ2PAK) (Base)
