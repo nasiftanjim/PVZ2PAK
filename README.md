@@ -18,7 +18,9 @@ More minigames
 
 [PvZ 2 PAK 1.8 (Overview+Gameplay+Download)](https://youtu.be/m42s43pK-wo) (sub pls)
 
-## Go to releases to download!
+## Download!
+
+Go to releases!
 
 ## Credits
 [Jiangnangame](https://github.com/jiangnangame/PVZ2PAK) (Base)
