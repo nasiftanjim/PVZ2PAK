@@ -16,7 +16,7 @@ More minigames
 
 ### Video link:
 
-https://youtu.be/lbTGujGmvXo (sub pls)
+[PvZ 2 PAK 1.8 (Overview+Gameplay+Download)](https://youtu.be/m42s43pK-wo) (sub pls)
 
 ## Go to releases to download!
 
