@@ -1,5 +1,5 @@
-# PvZ 2 PAK
-This changes every assets, animations, etc to match PvZ 2. Bringing the experience of PvZ 2 on your PC!
+# PvZ 2 PAK (NT)
+This is a mixture of a bunch of PvZ2PAKs with my personal changes.
 ## Features
 
 BGM (Background Music)
