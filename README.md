@@ -1,22 +1,16 @@
 # PvZ 2 PAK (NT)
 This is a mixture of a bunch of PvZ2PAKs with my personal changes.
 ## Features
-
-BGM (Background Music)
-
-SFX
-
-Animations
-
-Assets
-
-More minigames
-
-& more waiting for you!
+* BGM (Background Music)
+* SFX
+* Animations
+* Assets
+* More minigames
+* & more waiting for you!
 
 ### Video link
 
-[PvZ 2 PAK 1.8 (Overview+Gameplay+Download)](https://youtu.be/m42s43pK-wo) (sub pls)
+[PvZ 2 PAK 1.8](https://youtu.be/m42s43pK-wo) (sub pls)
 
 ## Download
 
