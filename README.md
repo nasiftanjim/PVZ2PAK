@@ -19,7 +19,7 @@ This is a mixture of various PvZ2PAKs with my personal changes.
 * Extract the zip file anywhere & launch plantsvszombies.exe
 
 # Credits
-* Original PvZ2PAK - [Jiangnangame](https://github.com/jiangnangame/PVZ2PAK)
+* Original PvZ2PAK - [JiangNanGame](https://github.com/jiangnangame/PVZ2PAK)
 * Seeds & Textures - [E-Pea](https://www.youtube.com/channel/UCORlBB70YiaUWkBY_XjBnKQ)
 
 Please support [Genuine PVZ](https://www.ea.com/games/plants-vs-zombies) by Popcap Games.
