@@ -31,7 +31,8 @@ This is a mixture of various PvZ2PAKs with my personal changes.
 * Open the folder of the level you want to replace
 * Choose the image you liked & rename according to level & replace in the images folder
 * Don't forget to rename the images.
-* Rename to *background1* for Day, *background2* for Night, *background3* for Pool, *background4* for Fog, *background5* for Roof & *background6boss* for Roof Night
+
+Rename to *background1* for Day, *background2* for Night, *background3* for Pool, *background4* for Fog, *background5* for Roof & *background6boss* for Roof Night
 
 # Credits
 * Original PvZ2PAK - [JiangNanGame](https://github.com/jiangnangame/PVZ2PAK)
