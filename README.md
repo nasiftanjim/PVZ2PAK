@@ -1,6 +1,6 @@
 <p align="center"><img alt="PVZ2PAK" src="https://raw.githubusercontent.com/jiangnangame/PVZ2PAK/master/images/PvZ_Logo.png"/></p>
 
-# PvZ 2 PAK (NT)
+# PvZ 2 PAK
 This is a mixture of various PvZ2PAKs with my personal changes.
 
 # Showcase video (Outdated, see Screenshots)
