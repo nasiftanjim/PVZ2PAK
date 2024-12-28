@@ -3,7 +3,7 @@
 # PvZ 2 PAK
 This is a mixture of various PvZ2PAKs with my personal changes.
 
-# Showcase video (Outdated, see Screenshots)
+# Showcase Video (Outdated, see Screenshots)
 [![Showcase Video](/screenshots/Thumbnail.png)](https://youtu.be/m42s43pK-wo)
 
 # Screenshots
