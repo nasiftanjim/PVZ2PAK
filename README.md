@@ -11,6 +11,8 @@ This is a mixture of various PvZ2PAKs with my personal changes.
 
 ![Minigames](/screenshots/Minigames.png)
 
+![Minigames](/screenshots/Minigames2.png)
+
 ![ZenGarden](/screenshots/ZenGarden.png)
 
 ![LastStand](/screenshots/LastStand.png)
