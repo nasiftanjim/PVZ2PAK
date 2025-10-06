@@ -1,7 +1,7 @@
 <p align="center"><img alt="PVZ2PAK" src="https://raw.githubusercontent.com/jiangnangame/PVZ2PAK/master/images/PvZ_Logo.png"/></p>
 
 # PvZ 2 PAK
-This is a mixture of various PvZ2PAKs with my personal changes.
+Enjoy PvZ2Pak like never before, now in stunning full 1280x720 resolution.
 
 # Showcase Video (Outdated, see Screenshots)
 [![Showcase Video](/screenshots/Thumbnail.png)](https://youtu.be/m42s43pK-wo)
@@ -34,6 +34,7 @@ This is a mixture of various PvZ2PAKs with my personal changes.
 # Credits
 * Original PvZ2PAK - [JiangNanGame](https://github.com/jiangnangame/PVZ2PAK)
 * Textures & Assets - [E-Pea](https://youtube.com/@e-pea)
+* Music - [Cesar The Sanchez](https://youtu.be/LKK6HOptCPU), [Zombot1000Musician](https://www.youtube.com/@Zombot1000Musician), [whisperjas](https://youtu.be/DqPm2ZdxPFU)
 * More credits ingame
 
 Please support [Genuine PVZ](https://www.ea.com/games/plants-vs-zombies) by Popcap Games.
